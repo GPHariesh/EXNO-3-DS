@@ -37,6 +37,8 @@ We use this categorical data encoding technique when the features are nominal(do
  df
 ```
 <img width="483" height="455" alt="image" src="https://github.com/user-attachments/assets/359f878c-0032-4f35-b653-ff1db8aa49e2" />
+
+
 ```
  from sklearn.preprocessing import LabelEncoder,OrdinalEncoder
  pm=['Hot','Warm','Cold']
